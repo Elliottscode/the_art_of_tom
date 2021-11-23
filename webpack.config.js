@@ -10,7 +10,6 @@ module.exports = {
     },
     devServer: {
         port: 3010,
-        
     },
     module: {
         rules: [
